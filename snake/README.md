@@ -66,5 +66,9 @@ python main.py
 ![Pygame](https://img.shields.io/badge/Pygame-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+## 🎥 Preview
+<img width="595" height="625" alt="image" src="https://github.com/user-attachments/assets/c0de5f28-a3d3-4fb7-a67d-f4e4a5960597" />
+<img width="597" height="627" alt="image" src="https://github.com/user-attachments/assets/5c14e817-2444-4de7-b685-24f2442b6954" />
+
 
 _Made with 💙 while learning Python_
